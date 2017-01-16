@@ -1,0 +1,4 @@
+﻿  fn45186_prob5_vc.cpp
+g:\university\up\homeworks\05\05\fn45186_prob5_vc.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  05.vcxproj -> G:\University\UP\homeworks\05\Debug\fn45186_prob5_vc.exe
+          1 file(s) copied.

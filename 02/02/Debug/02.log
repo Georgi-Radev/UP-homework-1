@@ -1,0 +1,8 @@
+﻿  fn45186_prob2_vc.cpp
+g:\university\up\homeworks\02\02\fn45186_prob2_vc.cpp(44): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+g:\university\up\homeworks\02\02\fn45186_prob2_vc.cpp(46): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+g:\university\up\homeworks\02\02\fn45186_prob2_vc.cpp(48): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+g:\university\up\homeworks\02\02\fn45186_prob2_vc.cpp(50): warning C4800: 'unsigned __int64': forcing value to bool 'true' or 'false' (performance warning)
+g:\university\up\homeworks\02\02\fn45186_prob2_vc.cpp(35): warning C4101: 'sum': unreferenced local variable
+  02.vcxproj -> G:\University\UP\homeworks\02\Debug\fn45186_prob2_vc.exe
+          1 file(s) copied.
